@@ -1,0 +1,4 @@
+[core]
+    remote = myromte
+['remote "myromte"']
+    url = ../s3
